@@ -27,3 +27,30 @@ Some other rooms for improvement could be:
 
 Final remarks:
 Interesting assignment, I had never worked with parsing XML before and ended up learning a lot. I am eager to hear your feedback.
+
+
+Here is the output
+
+Joe - SUM - 40 + 2 = 42
+
+Sam - MULTIPLY - 2 * 3 = 6
+
+Operation 'SUM41' is invalid
+
+Joe - SUB - 100 - 54 = 46
+
+Susan - DIVIDE - 50 / 2 = 25
+
+Susan - DIVIDE - 3 / 2 = 1.5
+
+Values are of the incorrect format
+
+Fox - SUM - 5 + 5 = 10
+
+Susan - DIVIDE - 0 / 2 = 0
+
+Susan - DIVIDE - 2 / 0 = ∞
+
+Joe - SUM - -2 + 2 = 0
+
+Operation 'POWER' is invalid
